@@ -23,7 +23,7 @@ let  userEmail;
 
 //To Declare symbol
 const id = Symbol('123');
-const bigNumber = 5230889633211456988536988775258652n;
+const bigNumber = 5230889658652n;
 
 //Array
 
@@ -31,12 +31,12 @@ const languages =["Java","c","c++","Python"];
 
 //Declare a Object 
 
-let stuentInfo{
+// let stuentInfo {
 
-    name=santosh,
-    age=20,
-    facualty=IT
-}
+//     name=santosh,
+//     age=20,
+//     facualty=IT,
+// }
 
 //Functions
 
