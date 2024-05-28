@@ -31,12 +31,12 @@ const languages =["Java","c","c++","Python"];
 
 //Declare a Object 
 
-// let stuentInfo {
+let stuentInfo ={
 
-//     name=santosh,
-//     age=20,
-//     facualty=IT,
-// }
+    name:santosh,
+    age:20,
+    facualty:IT,
+}
 
 //Functions
 
