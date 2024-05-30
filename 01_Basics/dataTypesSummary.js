@@ -35,7 +35,7 @@ let stuentInfo ={
 
     name:santosh,
     age:20,
-    facualty:IT,
+    facualty:IT
 }
 
 //Functions
