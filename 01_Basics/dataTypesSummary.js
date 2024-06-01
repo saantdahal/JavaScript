@@ -38,6 +38,11 @@ let stuentInfo ={
     facualty:IT
 }
 
+
+
+
+
+
 //Functions
 
 const myFunction = function () {
