@@ -33,21 +33,13 @@ const languages =["Java","c","c++","Python"];
 
 let stuentInfo ={
 
-    name:santosh,
+    name:"santosh",
     age:20,
-    facualty:IT
+    facualty:"IT"
 }
-
-
-
-
-
-
 //Functions
-
 const myFunction = function () {
     console.log("Hello World!");
 }
-
 
 
