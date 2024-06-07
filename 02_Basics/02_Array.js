@@ -11,7 +11,7 @@ const allHero = marvel_heros.concat(dc_heros);
 console.log(allHero);
 
 //Spread operator
-//It seprate all item
+//It seprate all item from array
 
 const all_New_Heros = [...marvel_heros, ...dc_heros];
 console.log(all_New_Heros);
