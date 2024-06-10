@@ -25,3 +25,16 @@ const jsUser = {
 console.log(jsUser.name);
 console.log(jsUser["name"]);
 console.log(typeof [mySym]);
+console.log(jsUser[mySym]);
+
+//To change the value in Object
+
+jsUser.age = 18;
+
+//object function
+
+jsUser.greeting = function () {
+  console.log(`Hello js user ,${this.name}`);
+};
+
+console.log(jsUser.greeting);
