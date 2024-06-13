@@ -15,7 +15,6 @@ const myArray = new Array(5, 4, 3, 2);
 //Remove item from last
 // myArr.pop();
 
-
 //To join array after join it change data types into string from objects
 // const newArr = myArr.join();
 // console.log(newArr);
