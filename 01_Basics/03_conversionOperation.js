@@ -18,8 +18,6 @@ let value = 3;
 
 let negValue=-value;
 // console.log(negValue);
-
-
 console.log("3"+2+1);
 console.log(3+'2'+'1');
 console.log(3+2+'1');
