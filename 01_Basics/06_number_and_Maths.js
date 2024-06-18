@@ -20,7 +20,6 @@ const num = 10000000;
 // console.log(num.toLocaleString());
 
 //******************MATHS***************************//
-
 console.log(Math);
 //To get absoluate of a number
 console.log(Math.abs(-8));
